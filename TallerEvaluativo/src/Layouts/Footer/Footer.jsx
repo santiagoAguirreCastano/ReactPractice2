@@ -7,9 +7,9 @@ export const Footer = () => {
     return (
 
       
-        <footer className='h-[5rem] w-[100vw] text-center items-center flex justify-center bg-rose-500 rounded-lg px-6 py-8 ring shadow-xl ring-gray-900/5'>
+        <footer className='h-[5rem] w-[100vw] text-center items-center flex justify-center bg-white/20 backdrop-blur-md text-white  p-4 rounded-lg px-6 py-8 ring shadow-xl ring-gray-900/5'>
 
-            <p className='text-white'>
+            <p className='text-gray-300 drop-shadow-lg'>
                 Desarrollado por <strong>Santiago Aguirre</strong>
             </p>
             <NavBar>
