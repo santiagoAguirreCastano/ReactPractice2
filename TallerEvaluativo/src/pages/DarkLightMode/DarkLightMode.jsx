@@ -16,7 +16,7 @@ export const DarkLightMode = () => {
   return (
     <Main>
       <div className="h-full w-full flex flex-col justify-center items-center">
-        <ItemTitles content="Bienvendio Al Cambio Blanco y Negro" styles="font-bold drop-shadow-lg text-2xl text-gray-300t absolute top-30 left-180 "/>
+        <ItemTitles content="Bienvendio Al Cambio Blanco y Negro" styles="font-bold drop-shadow-lg text-2xl text-gray-300 absolute top-30 left-180 "/>
         <BtnChangeLigthDarkMode changeColor={changeColor}/>
       </div>
       
